@@ -23,17 +23,24 @@ Kazimir Malevich
 
 Alexander Rodchenko
 
+#### ● Elección de la obra
+
+Elegí esta obra en particular, porque me pareció simple de recrear, ademas de su seleccion de colores que me llamaron la atención. Además dque desde el año pasado he investigado y aprendido mucho sobre lo que fué el constructivismo ruso, lo cual me gustó bastante.
+
 #### ● Análisis de formas (formas, colores, proporciones)
 
-
+En terminos de forma, utilicé las aprendidas en clase; LINE, RECT y ELLIPSE.
+Para el color utilicé el comando FILL y busqué los codigos de color por internet, para lograr el mismo color de la obra.
+Las proporciones las logré gracias a los calculos de la grilla utilizada para la creación del trabajo, pero igual tuve problemas con ellas.
 
 #### ● De imagen a coordenadas (X, Y)
 
-
+Con uso de una grilla hecha principalmente en Photoshop, la pasé a una hoja de cuaderno para poder realizar los calculos necesarios, siendo estos la multiplicación de las coordenadas de la grilla de 15*15 por 50.
 
 #### ● Dificultades
 
-
+No pude lograr que las lineas negras fueran rectangulares, debido a que cuando intentaba el comando RECT solo me daba los elementos en direccion vertical y horizontal, por lo que terminé haciendolas con el comando LINE.
+Igualmente la ubicación de los elementos en el lienzo se me dificultó y tuve que cambiar números en los comandos para que lograran calzar y quedara más acorde a la obra original.
 
 #### ● Resolución de problemas
 
