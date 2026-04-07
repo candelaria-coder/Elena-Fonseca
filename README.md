@@ -23,19 +23,19 @@ Kazimir Malevich
 
 Alexander Rodchenko
 
-####● Análisis de formas (formas, colores, proporciones)
+#### ● Análisis de formas (formas, colores, proporciones)
 
 
 
-####● De imagen a coordenadas (X, Y)
+#### ● De imagen a coordenadas (X, Y)
 
 
 
-####● Dificultades
+#### ● Dificultades
 
 
 
-####● Resolución de problemas
+#### ● Resolución de problemas
 
 
 
