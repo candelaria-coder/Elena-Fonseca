@@ -40,11 +40,11 @@ Con uso de una grilla hecha principalmente en Photoshop, la pasé a una hoja de 
 #### ● Dificultades
 
 No pude lograr que las lineas negras fueran rectangulares, debido a que cuando intentaba el comando RECT solo me daba los elementos en direccion vertical y horizontal, por lo que terminé haciendolas con el comando LINE.
-Igualmente la ubicación de los elementos en el lienzo se me dificultó y tuve que cambiar números en los comandos para que lograran calzar y quedara más acorde a la obra original.
+Igualmente la ubicación de los elementos en el lienzo se me dificultó.
 
 #### ● Resolución de problemas
 
-
+Para resolver mis dificultades del trabajo tuve que cambiar números, rovando diferentes cantidades, en los comandos de las figuras para que lograran calzar con los tamaños más acordes a la obra original.
 
 
 
