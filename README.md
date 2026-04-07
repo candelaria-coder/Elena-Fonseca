@@ -25,5 +25,9 @@ Alexander Rodchenko
 
 ## sketch de proceso+grilla
 
-![GRILLA](img width="1919" height="1045" alt="image" src="https://github.com/user-attachments/assets/7ead8bb3-277a-457e-8403-41e969e12369")
+![GRILLA](<img width="1919" height="1045" alt="image" src="https://github.com/user-attachments/assets/b7042847-b680-491d-8b08-0bead3176ce8" />)
+![GRILLA](<img width="674" height="643" alt="image" src="https://github.com/user-attachments/assets/0f66275c-da5a-4deb-8713-ff15253c30e6" />)
+
+
+
 
