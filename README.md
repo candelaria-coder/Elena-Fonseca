@@ -24,3 +24,6 @@ Kazimir Malevich
 Alexander Rodchenko
 
 ## sketch de proceso+grilla
+
+![GRILLA](<img width="1919" height="1045" alt="image" src="https://github.com/user-attachments/assets/7ead8bb3-277a-457e-8403-41e969e12369" />)
+
