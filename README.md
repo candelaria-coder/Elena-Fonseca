@@ -47,6 +47,6 @@ Igualmente la ubicación de los elementos en el lienzo se me dificultó.
 
 Para resolver mis dificultades del trabajo tuve que cambiar números, rovando diferentes cantidades, en los comandos de las figuras para que lograran calzar con los tamaños más acordes a la obra original.
 
-![RESULTADO](<img width="751" height="748" alt="RESULTADO" src="https://github.com/user-attachments/assets/7657e66a-54cb-4af1-a502-99594f175363" />)
+![RESULTADO]([<img width="751" height="748" alt="RESULTADO" src="https://github.com/user-attachments/assets/7657e66a-54cb-4af1-a502-99594f175363" />](https://editor.p5js.org/elena.fonseca/full/luCc43v-U))
 
 
